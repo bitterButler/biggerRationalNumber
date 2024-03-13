@@ -1,0 +1,3 @@
+C:/Users/Barna/Documents/EGYETEM/ComputerScience/FREE_TIME_PROJECTS_for_internships/CPP_Project/biggerRationalNumber/cmake-build-debug/CMakeFiles/CPP_Project.dir
+C:/Users/Barna/Documents/EGYETEM/ComputerScience/FREE_TIME_PROJECTS_for_internships/CPP_Project/biggerRationalNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Barna/Documents/EGYETEM/ComputerScience/FREE_TIME_PROJECTS_for_internships/CPP_Project/biggerRationalNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
